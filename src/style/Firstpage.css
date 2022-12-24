@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Dancing+Script:wght@400;500&family=Mochiy+Pop+One&family=Nunito&family=PT+Sans&family=Poppins:ital@0;1&family=Qwitcher+Grypen&family=Rancho&family=Righteous&family=Roboto+Mono:wght@500&family=Rubik+Gemstones&family=Rubik+Puddles&family=Russo+One&family=Satisfy&display=swap');
+
+.heading{
+   
+    font-family: 'Satisfy', cursive;
+}
+.sub_head{
+
+    font-family: 'Poppins', sans-serif;
+}
+.arrowslider{
+  animation:  slider 5s linear infinite;
+}
+@keyframes slider{
+    50%{
+        transform: translate(-0.5rem)
+    }
+}
+*{
+    font-family: 'Poppins', sans-serif;  
+}
